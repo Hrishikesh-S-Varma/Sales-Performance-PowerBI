@@ -1,0 +1,34 @@
+# Football Player Performance Analytics ⚽📊
+
+## Project Overview
+An advanced Power BI dashboard analyzing football player performance across top European leagues using detailed statistical metrics.
+
+## Business Objective
+To assess player strengths, weaknesses, and overall impact for scouting, coaching, and performance evaluation.
+
+## Key KPIs
+- Goals, Assists, xG
+- Key Passes & Shot-Creating Actions
+- Defensive Contributions & Duels
+- On-Off Impact Metrics
+- Progressive Play Indicators
+
+## Dashboard Pages
+1. Player Snapshot  
+2. Attacking Performance  
+3. Passing & Creativity  
+4. Defensive Contribution & Duels  
+5. Playing Impact & Weakness Detection  
+
+## Tools Used
+- Power BI
+- Power Query
+- DAX
+- FBref Data
+- GitHub
+
+## Outcome
+The dashboard provides a holistic and data-driven evaluation of football player performance beyond traditional statistics.
+
+## Screenshots
+Added to the Files Section
